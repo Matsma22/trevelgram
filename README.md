@@ -36,9 +36,6 @@ HTML
 CSS
 
 
-🔧 Como rodar o projeto
-Acesse o repositório e abra o projeto no navegador:
-👉 https://github.com/Matsma22/trevelgram
 
 
 
